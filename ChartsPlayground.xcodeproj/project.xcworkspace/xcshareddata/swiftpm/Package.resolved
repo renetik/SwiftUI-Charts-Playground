@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "carekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/carekit-apple/CareKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8ca7962d98654ab45cc2976218ffac2728a4a2b0"
+      }
+    },
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts",
+      "state" : {
+        "revision" : "8d134a78bb2cb9e7a0f05ecbd5880bb05cd02863",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "9115a992c91fa19cbb4f2241084240d38654a1fc",
+        "version" : "1.5.5"
+      }
+    },
+    {
+      "identity" : "fhirmodels",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/FHIRModels.git",
+      "state" : {
+        "revision" : "e115442fb3c5d44ffb1dc9b4e039b77fd143ad96",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "stock-charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denniscm190/stock-charts",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a225e0e3d501d19116c3397e53db0cb25be32edb"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms",
+      "state" : {
+        "revision" : "6cffd04a4f09cb9111d98ee70dc4314fcb5fc56e",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "swiftcharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanschuetz/SwiftCharts/",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3d011f67eccb1ffa622fbfccb1348eed80309ae8"
+      }
+    },
+    {
+      "identity" : "swiftui-charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JannikArndt/swiftui-charts",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e89cd99e5851b19bb30531eafebb916b72ee4a40"
+      }
+    },
+    {
+      "identity" : "swiftui-shapes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-extensions/swiftui-shapes.git",
+      "state" : {
+        "revision" : "c58b15c37eae9bd20525c6daa93a06a689ca75cb",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
