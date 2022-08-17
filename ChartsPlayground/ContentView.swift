@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Charts
-//
-//  Created by Jannik Arndt on 29.08.21.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -20,8 +13,6 @@ struct ContentView: View {
                 // https://github.com/ivanschuetz/SwiftCharts
                 Section(header: Text("ivanschuetz/SwiftCharts")) {
                     NavigationLink("Bar Chart", destination: SwiftChartsBarChart(), tag: "SwiftChartsBarChart", selection: $selectedView)
-//                    NavigationLink("Line Chart", destination: SwiftChartsLineChart(), tag: "SwiftChartsLineChart", selection: $selectedView)
-//                    NavigationLink("Pie Chart", destination: SwiftChartsPieChart(), tag: "SwiftChartsPieChart", selection: $selectedView)
                 }
 
                 // https://github.com/denniscm190/stock-charts
@@ -51,7 +42,7 @@ struct ContentView: View {
                     NavigationLink("Pie Chart", destination: ChartsPieChart(), tag: "ChartsPieChart", selection: $selectedView)
                 }
             }
-            .navigationBarTitle("Charts")
+                .navigationBarTitle("Charts")
         }
     }
 }

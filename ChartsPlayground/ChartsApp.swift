@@ -1,10 +1,3 @@
-//
-//  ChartsApp.swift
-//  Charts
-//
-//  Created by Jannik Arndt on 29.08.21.
-//
-
 import SwiftUI
 
 @main

@@ -1,8 +1,5 @@
 //
 //  LineChart.swift
-//  ChartsPlayground
-//
-//  Created by Jannik Arndt on 29.08.21.
 //
 
 import Charts

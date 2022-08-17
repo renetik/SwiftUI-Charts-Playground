@@ -1,8 +1,5 @@
 //
 //  CKChartView.swift
-//  ChartsPlayground
-//
-//  Created by Jannik Arndt on 25.09.21.
 //
 
 import CareKitUI
