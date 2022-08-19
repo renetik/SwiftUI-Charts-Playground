@@ -26,3 +26,10 @@ struct ChartsBarChart: View {
         }
     }
 }
+
+
+struct ChartsBarChart_Previews: PreviewProvider {
+    static var previews: some View {
+        ChartsBarChart()
+    }
+}
